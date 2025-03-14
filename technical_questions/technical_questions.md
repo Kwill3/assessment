@@ -1,3 +1,5 @@
+# Scala
+
 ## Data Structure and Algorithm
 * What is the size of an int? 4 bytes (32 bits)
 * How many numbers can be in an int? 9 or 10 digits
